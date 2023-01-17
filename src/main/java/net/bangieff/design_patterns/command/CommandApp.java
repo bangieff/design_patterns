@@ -22,9 +22,5 @@ public class CommandApp {
 		allLights.add(bathroomLight);
 		
 		lightSwitch.storeAndExecute(allLightsCommand);
-		
-//		lightSwitch.storeAndExecute(toggleCommand);
-//		lightSwitch.storeAndExecute(toggleCommand);
-//		lightSwitch.storeAndExecute(toggleCommand);
 	}
 }
