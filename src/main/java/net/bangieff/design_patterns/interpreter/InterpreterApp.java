@@ -1,8 +1,5 @@
 package net.bangieff.design_patterns.interpreter;
 
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-
 public class InterpreterApp {
 
 	public static void main(String[] args) {
