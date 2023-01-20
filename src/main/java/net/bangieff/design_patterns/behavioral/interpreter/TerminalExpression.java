@@ -1,4 +1,4 @@
-package net.bangieff.design_patterns.interpreter;
+package net.bangieff.design_patterns.behavioral.interpreter;
 
 import java.util.StringTokenizer;
 

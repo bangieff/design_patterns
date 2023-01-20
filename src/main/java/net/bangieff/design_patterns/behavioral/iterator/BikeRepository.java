@@ -1,4 +1,4 @@
-package net.bangieff.design_patterns.iterator;
+package net.bangieff.design_patterns.behavioral.iterator;
 
 import java.util.Iterator;
 

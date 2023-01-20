@@ -1,4 +1,4 @@
-package net.bangieff.design_patterns.mediator;
+package net.bangieff.design_patterns.behavioral.mediator;
 
 //colleague
 public interface Command {

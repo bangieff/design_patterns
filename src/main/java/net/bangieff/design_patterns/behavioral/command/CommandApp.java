@@ -1,4 +1,4 @@
-package net.bangieff.design_patterns.command;
+package net.bangieff.design_patterns.behavioral.command;
 
 import java.util.ArrayList;
 import java.util.List;

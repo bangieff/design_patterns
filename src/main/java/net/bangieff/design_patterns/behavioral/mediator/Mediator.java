@@ -1,4 +1,4 @@
-package net.bangieff.design_patterns.mediator;
+package net.bangieff.design_patterns.behavioral.mediator;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package net.bangieff.design_patterns.memento;
+package net.bangieff.design_patterns.behavioral.memento;
 
 public class MementoApp {
 
